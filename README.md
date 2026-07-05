@@ -1,4 +1,10 @@
-# Genomics Data Scientist Interview Questions 🧬📊
+<div align="center">
+  <img src="assets/banner.svg" alt="Genomics Data Scientist Banner" width="800" />
+</div>
+
+<br/>
+
+# Genomics Data Scientist Interview Questions 🧬📊✨
 
 A curated, community-driven collection of interview questions (with model answers, frameworks, and explanations) for **Genomics Data Scientist / Computational Biologist / Bioinformatics Scientist** roles — spanning academic labs, biotech/pharma, clinical genomics companies, and sequencing/platform companies.
 
@@ -17,14 +23,14 @@ This is not a list of trivia. Every question includes:
 
 | # | Category | What it covers |
 |---|----------|-----------------|
-| 1 | [Molecular Biology & Genomics Fundamentals](questions/01-molecular-biology-genomics-fundamentals.md) | Central dogma, genome structure, sequencing technologies |
-| 2 | [Bioinformatics Data Types & File Formats](questions/02-data-types-and-file-formats.md) | FASTQ, BAM/SAM, VCF, GTF/GFF, and the workflows that connect them |
-| 3 | [Statistical & ML Methods for Genomics](questions/03-statistical-ml-methods-genomics.md) | GWAS, differential expression, multiple testing, dimensionality reduction |
-| 4 | [NGS Pipelines & Variant Analysis](questions/04-ngs-pipelines-variant-analysis.md) | Alignment, variant calling, QC, annotation, reproducibility |
-| 5 | [Single-Cell & Multi-Omics Analysis](questions/05-single-cell-and-multi-omics.md) | scRNA-seq workflows, batch correction, integration across modalities |
-| 6 | [Data Quality, Validation & Reproducibility](questions/06-data-quality-and-reproducibility.md) | Batch effects, confounding, benchmarking, pipeline reproducibility |
-| 7 | [Privacy, Ethics & Regulatory](questions/07-privacy-ethics-and-regulatory.md) | Genetic privacy, consent, clinical regulatory considerations, equity in genomic data |
-| 8 | [Behavioral & Case Studies](questions/08-behavioral-and-case-studies.md) | Collaboration with wet-lab scientists/clinicians, real-world scenarios |
+| 1 | 🔬 [Molecular Biology & Genomics Fundamentals](questions/01-molecular-biology-genomics-fundamentals.md) | Central dogma, genome structure, sequencing technologies |
+| 2 | 💾 [Bioinformatics Data Types & File Formats](questions/02-data-types-and-file-formats.md) | FASTQ, BAM/SAM, VCF, GTF/GFF, and the workflows that connect them |
+| 3 | 📈 [Statistical & ML Methods for Genomics](questions/03-statistical-ml-methods-genomics.md) | GWAS, differential expression, multiple testing, dimensionality reduction |
+| 4 | 🧬 [NGS Pipelines & Variant Analysis](questions/04-ngs-pipelines-variant-analysis.md) | Alignment, variant calling, QC, annotation, reproducibility |
+| 5 | 🎯 [Single-Cell & Multi-Omics Analysis](questions/05-single-cell-and-multi-omics.md) | scRNA-seq workflows, batch correction, integration across modalities |
+| 6 | ✅ [Data Quality, Validation & Reproducibility](questions/06-data-quality-and-reproducibility.md) | Batch effects, confounding, benchmarking, pipeline reproducibility |
+| 7 | ⚖️ [Privacy, Ethics & Regulatory](questions/07-privacy-ethics-and-regulatory.md) | Genetic privacy, consent, clinical regulatory considerations, equity in genomic data |
+| 8 | 🤝 [Behavioral & Case Studies](questions/08-behavioral-and-case-studies.md) | Collaboration with wet-lab scientists/clinicians, real-world scenarios |
 
 Also see: [resources.md](resources.md) for external reading, tools, databases, and communities.
 
